@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Sirius";
+  src: local("Sirius"), url('./fonts/ALS_Sirius_Regular_0.95.woff') format("woff");
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+
+}
+
+@font-face {
+  font-family: "Sirius";
+  src: local("Sirius"), url('./fonts/ALS_Sirius_Regular_0.95.woff') format("woff");
+  font-weight: normal;
+}
